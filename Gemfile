@@ -63,7 +63,7 @@ group :development do
   gem "font-awesome-sass", "~> 6.1"
   gem "simple_form"
   gem "sassc-rails"
-
+  gem 'faker'
   gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
 end
 
